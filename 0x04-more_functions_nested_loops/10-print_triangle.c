@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * print_triangle - function prints trinagle, using the charcter #.
+ * print_triangle - function prints triangle, using the charcter #.
  * @size: size of the triangle
  */
 
-void print_tringle(int size)
+void print_triangle(int size)
 {
 	int hash, index;
 
