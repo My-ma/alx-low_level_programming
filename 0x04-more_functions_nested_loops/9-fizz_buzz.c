@@ -2,8 +2,8 @@
 
 /**
  * main - function print the numbers from 1-100, but for multiples of three,
- * 	Fizz is printed instead for multiples of five,
- * 	Buzz is printed for multiples of both three and five, FizzBuzz.
+ * Fizz is printed instead for multiples of five,
+ * Buzz is printed for multiples of both three and five, FizzBuzz.
  *
  * Return: Always 0.
  */
